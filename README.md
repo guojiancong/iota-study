@@ -1,10 +1,15 @@
 # IOTA学习
 
 ## IOTA介绍
+* IOTA是什么?
+* [关键词](readme/glossary.md)
+* 常见问题
+* 白皮书
 
 ## 安装IRI
 
 ## 深入了解IOTA
+* [种子，私钥和账号](readme/seeds-private-keys-and-accounts.md)
 
 ## 安装钱包
 
